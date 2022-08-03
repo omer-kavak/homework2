@@ -2,7 +2,7 @@
 ![list](img/index.png)
 
 ### Product Page
-![list](img/product.png)
+![list](img/products.png)
 
 ### Categories Page
 ![list](img/categories.png)
@@ -11,9 +11,9 @@
 ![list](img/contactus.png)
 
 ### Login Page
-![list](img/login.png)
+![list](img/log-in.png)
 
 ### Register Page
-![list](img/register.png)
+![list](img/sign-in.png)
 
 
